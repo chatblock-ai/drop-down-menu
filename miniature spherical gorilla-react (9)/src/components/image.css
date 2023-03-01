@@ -1,0 +1,11 @@
+.image-image {
+  width: 5%;
+  height: 33px;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: var(--dl-space-space-unit);
+  background-size: cover;
+  background-image: url("/playground_assets/landing%20page%20%5B2%5D%20%5B1%5D-200h.png");
+  background-position: center;
+}

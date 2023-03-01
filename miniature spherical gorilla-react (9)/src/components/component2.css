@@ -1,0 +1,9 @@
+.component2-container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.component2-image {
+  width: 35%;
+  object-fit: cover;
+}

@@ -1,0 +1,10 @@
+.component20-container {
+  display: flex;
+  position: relative;
+}
+@media(max-width: 479px) {
+  .component20-textinput {
+    width: 246px;
+    height: 60px;
+  }
+}

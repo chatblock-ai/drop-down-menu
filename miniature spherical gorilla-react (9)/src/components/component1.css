@@ -1,0 +1,16 @@
+.component1-container {
+  width: auto;
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.component1-image {
+  width: 19%;
+  margin-top: 1.5%;
+  object-fit: cover;
+}
+@media(max-width: 479px) {
+  .component1-image {
+    width: 21%;
+  }
+}

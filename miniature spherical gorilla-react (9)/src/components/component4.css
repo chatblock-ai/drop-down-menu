@@ -1,0 +1,9 @@
+.component4-container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.component4-image {
+  width: 35%;
+  object-fit: cover;
+}
